@@ -6,12 +6,11 @@
 .BuscarProduto {
     height: 7vh;
     text-align: center;
-    
 }
 
 .pesquisa {
     margin-top: 1vh;
-    height: 2vh;
+    height: 3vh;
 }
 
 .categorias {
@@ -56,4 +55,19 @@
 
 .título, .subtítulo {
     margin-left: 1vw;
+}
+
+h1 {
+    margin-top: 50vh;
+    text-align: center;
+    color: rgb(255, 0, 0);
+    background-color: black;
+    border-style: solid;
+}
+form {
+    margin-top: 10vh;
+    text-align: center;
+}
+input, select {
+    margin-top: 2vh;
 }
