@@ -6,7 +6,7 @@
 .BuscarProduto {
     height: 7vh;
     text-align: center;
-    text-align: 7vh;
+    
 }
 
 .pesquisa {
@@ -14,5 +14,46 @@
     height: 2vh;
 }
 
+.categorias {
+    text-align: center;
+    height: 7vh;
+    border: solid;
+    line-height: 6vh;
+}
+.opções {    
+    margin-left: 2vw;
+    vertical-align: middle;
+}
 
+.conteúdo {
+    background-color:rgba(137, 139, 141, 0.568);
+    text-align: center;    
+    height: 86vh;
+}
 
+.benefícios {
+    height: 15vh;
+    width: 80vw;
+    margin-top: 5vh;
+    background-color: white;
+    display:inline-block;
+    border-radius: 1vw;
+}
+
+.oferta, .primeiraOferta {
+    height: 15vh;
+    width: 19.6vw;
+    float: left;
+    text-align: left;
+}
+.primeiraOferta {
+    border-right: solid black 0.4vh;
+}
+
+.título {
+    margin-top: 3.5vh;
+}
+
+.título, .subtítulo {
+    margin-left: 1vw;
+}
